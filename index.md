@@ -1,3 +1,21 @@
+
+<!-- Drop this anywhere in your README.md or page HTML -->
+<script>
+  window.MathJax = {
+    tex: {
+      inlineMath: [['$', '$'], ['\\(', '\\)']],
+      displayMath: [['$$','$$'], ['\\[','\\]']],
+      processEscapes: true
+    },
+    options: {
+      skipHtmlTags: ['script','noscript','style','textarea','pre','code']
+    }
+  };
+</script>
+<script id="MathJax-script" async
+  src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
+</script>
+
 # Preface: The Physics of Intelligence
 
 We are accustomed to viewing Artificial Intelligence as a product—a tool we use, a subscription we buy, or a feature we toggle. However, the texts provided ($G, O, A, X, D$) argue that this view is insufficient. To understand what is coming, we must stop treating AI as a technological **event** and start treating it as a **dynamical system**.
