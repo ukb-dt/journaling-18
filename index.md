@@ -395,7 +395,7 @@ As we move forward, $\sqrt{\frac{d^2y}{dt^2}}$ grows—uncertainty in accelerati
 
 2. **Accumulation is irreversible**: $\int y \,dt$ cannot be undone. Scars are permanent. Choose carefully what to integrate.
 
-3. **Rate matters more than direction**: High $|\frac{dy}{dt}|$ is dangerous even if $y$ is "good"—adaptation failure causes system collapse
+3. **Rate matters more than direction**: High $\|\frac{dy}{dt}\|$ is dangerous even if $y$ is "good"—adaptation failure causes system collapse
 
 4. **Acceleration uncertainty is the crisis**: Growing $\sqrt{\frac{d^2y}{dt^2}}$ means we're flying blind into an increasingly opaque future
 
