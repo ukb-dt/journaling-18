@@ -376,7 +376,7 @@ As we move forward, $\sqrt{\frac{d^2y}{dt^2}}$ grows—uncertainty in accelerati
 
 ### Scenario A: Controlled Deceleration
 - Reduce $\frac{dy}{dt}$ through governance
-- Minimize $|\frac{d^2y}{dt^2}|$ to maintain predictability
+- Minimize $\|\frac{d^2y}{dt^2}\|$ to maintain predictability
 - Accept suboptimal $\int y \,dt$ to reduce scars
 
 ### Scenario B: Optimization Race
